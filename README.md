@@ -7,8 +7,8 @@ don't.
 Built with **TypeScript, React, and Next.js** on the front end, backed by a
 **Solidity** smart contract with a full Hardhat test suite.
 
-> **Live on Ethereum Sepolia** (Chain ID 11155111)
-> Contract: [`0xE88E8B7110a3B08d67397b2f727E1d3b8ED96Afc`](https://sepolia.etherscan.io/address/0xE88E8B7110a3B08d67397b2f727E1d3b8ED96Afc)
+> **🔗 Live demo:** https://stakeforward.vercel.app
+> **📄 Contract:** [`0xE88E8B7110a3B08d67397b2f727E1d3b8ED96Afc`](https://sepolia.etherscan.io/address/0xE88E8B7110a3B08d67397b2f727E1d3b8ED96Afc) on Ethereum Sepolia
 
 ---
 
