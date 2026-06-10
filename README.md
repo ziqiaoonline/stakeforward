@@ -1,3 +1,4 @@
+<img width="1512" height="855" alt="docs:screenshot-main" src="https://github.com/user-attachments/assets/48d1b6ee-8f01-4d84-beaa-8fbfb3ea8c0c" />
 # StakeForward
 
 **An onchain commitment device for goals that matter.** Lock ETH against a goal,
